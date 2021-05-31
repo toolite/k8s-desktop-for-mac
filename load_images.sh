@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-file="images"
+file="images.properties"
 
 if [ -f "$file" ]
 then
